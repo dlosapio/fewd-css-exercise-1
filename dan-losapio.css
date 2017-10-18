@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,800');
+
+body {
+	font-family: Open Sans;
+	line-height: 1.5em;
+}
+
+h1 {
+	color: red;
+	font-family: Open Sans 800;
+}
+
+#first_li {
+	color: green;
+}
+
+.dates {
+	font-style: italic;
+	font-weight: bold;
+}
+
+li > a {
+	color: pink;
+}
+
+ul blockquote {
+	color: gray;
+}
